@@ -1,0 +1,2 @@
+class FormatNotSupported(Exception):
+    pass
